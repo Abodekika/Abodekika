@@ -5,7 +5,7 @@
 
 - I’m currently working on new projects to learn more about  Android SDK
 - I’m looking to connect with other developers <img align="center" src="https://media.giphy.com/media/h4NcajKbIjNMWp2zfM/giphy.gif" width="20">
-- 2022 *Goals*<img align="center" src="https://media.giphy.com/media/UWyolgnwKnr8mfWZOY/giphy.gif" width="30">: Contribute more to Open Source projects
+- 2023 *Goals*<img align="center" src="https://media.giphy.com/media/UWyolgnwKnr8mfWZOY/giphy.gif" width="30">: Contribute more to Open Source projects
 
 
 
