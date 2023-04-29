@@ -17,18 +17,8 @@
 [![Top Langs](https://github-readme-stats-akshayashokcode.vercel.app//api/top-langs/?username=AkshayAshokCode&layout=compact&theme=gotham&langs_count=10&hide=html&hide_border=true&hide_title=true&bg_color=0d1117&text_color=fefefe)](https://github.com/anuraghazra/github-readme-stats)
 <br />
 
-### Spotify Playing: <img align="center" alt="Headphone" height="60" src="https://media.giphy.com/media/6vIxndGbXhng34GgYE/giphy.gif" />
-[![Spotify](https://spotify-now-playing-akshayashokcode.vercel.app/api/spotify/?background_color=0d1117&border_color=0d1117)][spotify]
 
-### Connect with me: <img align="center" alt="Android" width="90" src="https://media.giphy.com/media/X7Oe8SfCbv5GSzDGFl/giphy.gif" />
 
-[<img align="left" alt="AkshayAshokCode | Twitter" width="26px" src="https://github.com/AkshayAshokCode/AkshayAshokCode/blob/main/icons/twitter.png"/>][twitter]
-[<img align="left" alt="akshay-ashok-code | LinkedIn" width="26px" src="https://github.com/AkshayAshokCode/AkshayAshokCode/blob/main/icons/linkedin.png" />][linkedin]
-[<img align="left" alt="akshayy_nambiar | Instagram" width="22px" src="https://github.com/AkshayAshokCode/AkshayAshokCode/blob/main/icons/instagram.png" />][instagram]
-[<img align="left" alt="AkshayAshokCode | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
-[<img align="left" alt="AkshayAshokCode | Medium" height="22px" src="https://github.com/AkshayAshokCode/AkshayAshokCode/blob/main/icons/stackoverflow.png" />][stackoverflow]
-<br />
-<br />
 
 ### Languages and Tools:
 <p>
